@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Juxta)(type Legacy)(uri "/Users/matt/Dropbox (University of Michigan)/Biologging/Technology/KiCad/Juxta/Juxta.lib")(options "")(descr ""))
+  (lib (name ARBO_library)(type Legacy)(uri "/Users/matt/Dropbox (University of Michigan)/Biologging/Technology/KiCad/ARBO Parts/ARBO_library.lib")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ARBO)(type KiCad)(uri "/Users/matt/Dropbox (University of Michigan)/Biologging/Technology/KiCad/ARBO Parts")(options "")(descr ""))
+  (lib (name Juxta)(type KiCad)(uri "/Users/matt/Dropbox (University of Michigan)/Biologging/Technology/KiCad/Juxta/Juxta.pretty")(options "")(descr ""))
+)
